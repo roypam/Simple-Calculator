@@ -22,5 +22,5 @@ Its useful for simple calculations.
 
 ## How to Run?
 
-To run this application click on <a href='https://simple-react-calculator2022.herokuapp.com/'>this</a> link 
+To run this application click on <a href='https://simple-react-calculator2022.herokuapp.com/'>(https://simple-react-calculator2022.herokuapp.com/)</a>() link 
 
